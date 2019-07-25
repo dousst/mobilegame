@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main_Menu.unity
+    guid: 445bf6ee834fa4637b3035d2f2e74538
+  - enabled: 1
+    path: Assets/Scenes/Avatar_Select_Screen.unity
+    guid: 49bb28bdecabe468b84f452fcab2b0f6
+  - enabled: 1
+    path: Assets/Scenes/Coin_Toss_Screen.unity
+    guid: 11552687fbc14407fb373883456eb2b0
+  - enabled: 1
+    path: Assets/Scenes/Main_Game.unity
+    guid: 48e696941568b4b60bed901a8a038707
+  - enabled: 1
+    path: Assets/Scenes/Options_Menu.unity
+    guid: efb7b7a035ace43baa4aea04b124d587
+  - enabled: 1
+    path: Assets/Scenes/Audio_Screen.unity
+    guid: 54dade75b6e9a43668c014f4fd6fee76
+  - enabled: 1
+    path: Assets/Scenes/instructions_scene.unity
+    guid: a5c822fe859034f65a0485faab0683e0
+  - enabled: 1
+    path: Assets/Scenes/Rules_Screen.unity
+    guid: 202a29098a3d141a5905fb6868ae3c38
+  - enabled: 1
+    path: Assets/Scenes/Tips_Screen.unity
+    guid: a659b25826686455a8112f448f0e8e86
+  - enabled: 1
+    path: Assets/Scenes/leaderboard_scene.unity
+    guid: 9a1b81d92b6c840a19a6fc9ac34768b0
